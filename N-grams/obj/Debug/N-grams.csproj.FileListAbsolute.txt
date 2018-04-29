@@ -1,0 +1,10 @@
+C:\Users\Rodion\source\repos\N-grams\N-grams\bin\Debug\N-grams.exe.config
+C:\Users\Rodion\source\repos\N-grams\N-grams\bin\Debug\N-grams.exe
+C:\Users\Rodion\source\repos\N-grams\N-grams\bin\Debug\N-grams.pdb
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N-grams.csprojResolveAssemblyReference.cache
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N_grams.Properties.Resources.resources
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N-grams.csproj.GenerateResource.cache
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N-grams.csproj.CoreCompileInputs.cache
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N-grams.exe
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N-grams.pdb
+C:\Users\Rodion\source\repos\N-grams\N-grams\obj\Debug\N_grams.Form1.resources
